@@ -1,4 +1,4 @@
-package it.jfrankie;
+package it.survivingwithandroid;
 
 import android.app.Activity;
 import android.os.Bundle;
