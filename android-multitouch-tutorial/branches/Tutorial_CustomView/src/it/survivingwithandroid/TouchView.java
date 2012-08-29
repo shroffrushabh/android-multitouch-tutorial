@@ -1,4 +1,4 @@
-package it.jfrankie;
+package it.survivingwithandroid;
 
 /**
  * This cod shows how to implement a custom View
